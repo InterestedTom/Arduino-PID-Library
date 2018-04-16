@@ -72,7 +72,7 @@ class PID
     double kd;                  // * (D)erivative Tuning Parameter
 
 	int controllerDirection;
-	int pOn;
+	double pOn;
 
     double *myInput;              // * Pointers to the Input, Output, and Setpoint variables
     double *myOutput;             //   This creates a hard link between the variables and the 
