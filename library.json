@@ -9,11 +9,14 @@
     {
       "name": "Brett Beauregard"
     }
+    {
+      "name": "Thomas Dye"
+    }
   ],
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/br3ttb/Arduino-PID-Library.git"
+    "url": "https://github.com/InterestedTom/Arduino-PID-Library.git"
   },
   "frameworks": "arduino"
 }
